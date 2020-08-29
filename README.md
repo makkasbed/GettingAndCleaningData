@@ -11,6 +11,13 @@ The source data for this assignment can be found at the URL below:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+# Structure
+The structure of this code is as follows:
+- Datasets: contains all the downloaded data.
+- config.R: contains the parameters i.e. the datasets locations, separators and extension of the file.
+- functions.R: cleans the data, merges, fetches columns and transform columns
+- run_analysis.R puts all together.
+
 # Steps
 The run_analysis.R is the main script and to execute them, perform the following:
 
