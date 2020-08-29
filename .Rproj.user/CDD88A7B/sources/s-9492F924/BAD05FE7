@@ -1,0 +1,24 @@
+{
+    "id": "BAD05FE7",
+    "path": "~/Documents/RProjects/Week4/config.R",
+    "project_path": "config.R",
+    "type": "r_source",
+    "hash": "3824841712",
+    "contents": "",
+    "dirty": false,
+    "created": 1598739610989.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "0,30",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598740190,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598740190930,
+    "read_only": false,
+    "read_only_alternatives": []
+}
